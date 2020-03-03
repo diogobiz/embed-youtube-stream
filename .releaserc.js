@@ -16,13 +16,12 @@ module.exports = {
       }
     ],
     [
-      "@semantic-release/git",
+      "@semantic-release/github",
       {
         assets: ["CHANGELOG.md", "package.json", "yarn-lock.json"],
         message:
           "chore(release): ${nextRelease.version} [skip ci]\n\n${nextRelease.notes}"
       }
-    ],
-    "@semantic-release/github"
+    ]
   ]
 };
