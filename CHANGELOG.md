@@ -1,3 +1,15 @@
+# [2.0.0](https://github.com/diogobiz/embed-youtube-stream/compare/v1.1.1...v2.0.0) (2020-03-03)
+
+
+### Features
+
+* **action:** test action ([1e355c7](https://github.com/diogobiz/embed-youtube-stream/commit/1e355c77229087b77103815714b7c24d357095e6))
+
+
+### BREAKING CHANGES
+
+* **action:** describe breaking change
+
 ## [1.1.1](https://github.com/diogobiz/embed-youtube-stream/compare/v1.1.0...v1.1.1) (2020-03-03)
 
 
