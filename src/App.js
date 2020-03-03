@@ -6,7 +6,8 @@ const styleWrapper = {
   paddingBottom: "56.25%",
   paddingTop: 30,
   height: 0,
-  overflow: "hidden"
+  overflow: "hidden",
+  color: "red"
 };
 
 const styleIframe = {
