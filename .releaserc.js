@@ -9,6 +9,7 @@ module.exports = {
         npmPublish: false
       }
     ],
-    "@semantic-release/release-notes-generator"
+    "@semantic-release/release-notes-generator",
+    "@semantic-release/changelog"
   ]
 };
