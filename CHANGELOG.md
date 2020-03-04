@@ -1,3 +1,10 @@
+# [2.5.0](https://github.com/diogobiz/embed-youtube-stream/compare/v2.4.0...v2.5.0) (2020-03-04)
+
+
+### Features
+
+* **core:** add git on action release ([3ee804b](https://github.com/diogobiz/embed-youtube-stream/commit/3ee804ba20fb90f759b5877a57e87f8898f8cc37))
+
 ## [2.0.1](https://github.com/diogobiz/embed-youtube-stream/compare/v2.0.0...v2.0.1) (2020-03-03)
 
 
