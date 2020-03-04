@@ -1,3 +1,15 @@
+# [2.6.0](https://github.com/diogobiz/embed-youtube-stream/compare/v2.5.0...v2.6.0) (2020-03-04)
+
+
+### Bug Fixes
+
+* **core:** resolve css color ([5fdb007](https://github.com/diogobiz/embed-youtube-stream/commit/5fdb0071773caf85156754ea82b214d547cf8355))
+
+
+### Features
+
+* **core:** remove service worker ([4cd53ab](https://github.com/diogobiz/embed-youtube-stream/commit/4cd53ab260088a1eab6c74f7d0ac86e4c86c29c6))
+
 # [2.5.0](https://github.com/diogobiz/embed-youtube-stream/compare/v2.4.0...v2.5.0) (2020-03-04)
 
 
