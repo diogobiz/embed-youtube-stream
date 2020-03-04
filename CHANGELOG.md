@@ -1,3 +1,10 @@
+## [2.6.1](https://github.com/diogobiz/embed-youtube-stream/compare/v2.6.0...v2.6.1) (2020-03-04)
+
+
+### Bug Fixes
+
+* **core:** test commit with description ([727dcb9](https://github.com/diogobiz/embed-youtube-stream/commit/727dcb90df91082ad0c8d746d8a2619a7f7c3a8c))
+
 # [2.6.0](https://github.com/diogobiz/embed-youtube-stream/compare/v2.5.0...v2.6.0) (2020-03-04)
 
 
