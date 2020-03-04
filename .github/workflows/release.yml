@@ -15,3 +15,5 @@ jobs:
         with:
           dry_run: "false"
           branch: master
+    env:
+      GITHUB_TOKEN: ${{ secrets.GB_TOKEN }}
